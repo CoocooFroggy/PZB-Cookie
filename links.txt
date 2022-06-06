@@ -1,0 +1,89 @@
+iPhone SE (3rd generation)
+https://download.developer.apple.com/WWDC_2022/iOS_16_beta/iPhone146_16.0_20A5283p_Restore.ipsw
+
+iPhone 13
+https://download.developer.apple.com/WWDC_2022/iOS_16_beta/iPhone145_16.0_20A5283p_Restore.ipsw
+
+iPhone 13 Pro
+https://download.developer.apple.com/WWDC_2022/iOS_16_beta/iPhone142_16.0_20A5283p_Restore.ipsw
+
+iPhone 13 Pro Max
+https://download.developer.apple.com/WWDC_2022/iOS_16_beta/iPhone143_16.0_20A5283p_Restore.ipsw
+
+iPhone 13 mini
+https://download.developer.apple.com/WWDC_2022/iOS_16_beta/iPhone144_16.0_20A5283p_Restore.ipsw
+
+iPhone 12, iPhone 12 Pro
+https://download.developer.apple.com/WWDC_2022/iOS_16_beta/iPhone132iPhone133_16.0_20A5283p_Restore.ipsw
+
+iPhone 12 Pro Max
+https://download.developer.apple.com/WWDC_2022/iOS_16_beta/iPhone134_16.0_20A5283p_Restore.ipsw
+
+iPhone 12 mini
+https://download.developer.apple.com/WWDC_2022/iOS_16_beta/iPhone131_16.0_20A5283p_Restore.ipsw
+
+iPhone 11 Pro, iPhone 11 Pro Max
+https://download.developer.apple.com/WWDC_2022/iOS_16_beta/iPhone123iPhone125_16.0_20A5283p_Restore.ipsw
+
+iPhone 11
+https://download.developer.apple.com/WWDC_2022/iOS_16_beta/iPhone121_16.0_20A5283p_Restore.ipsw
+
+iPhone XS, iPhone XS Max
+https://download.developer.apple.com/WWDC_2022/iOS_16_beta/iPhone112iPhone114iPhone116_16.0_20A5283p_Restore.ipsw
+
+iPhone XR
+https://download.developer.apple.com/WWDC_2022/iOS_16_beta/iPhone118_16.0_20A5283p_Restore.ipsw
+
+iPhone X
+https://download.developer.apple.com/WWDC_2022/iOS_16_beta/iPhone103iPhone106_16.0_20A5283p_Restore.ipsw
+
+iPhone 8
+https://download.developer.apple.com/WWDC_2022/iOS_16_beta/iPhone_4.7_P3_16.0_20A5283p_Restore.ipsw
+
+iPhone 8 Plus
+https://download.developer.apple.com/WWDC_2022/iOS_16_beta/iPhone_5.5_P3_16.0_20A5283p_Restore.ipsw
+
+iPhone SE (2nd generation)
+https://download.developer.apple.com/WWDC_2022/iOS_16_beta/iPhone128_16.0_20A5283p_Restore.ipsw
+
+iPad Air (5th Generation)
+https://download.developer.apple.com/WWDC_2022/iPadOS_16_beta/iPad_Spring_2022_16.0_20A5283p_Restore.ipsw
+
+iPad mini (6th generation)
+https://download.developer.apple.com/WWDC_2022/iPadOS_16_beta/iPad_Fall_2021_16.0_20A5283p_Restore.ipsw
+
+10.2-in. iPad (9th generation)
+https://download.developer.apple.com/WWDC_2022/iPadOS_16_beta/iPad_10.2_2021_16.0_20A5283p_Restore.ipsw
+
+11-in. iPad Pro (3rd generation), 12.9-in. iPad Pro (5th generation)
+https://download.developer.apple.com/WWDC_2022/iPadOS_16_beta/iPad_Pro_Spring_2021_16.0_20A5283p_Restore.ipsw
+
+iPad Air (4th generation)
+https://download.developer.apple.com/WWDC_2022/iPadOS_16_beta/iPad_Fall_2020_16.0_20A5283p_Restore.ipsw
+
+10.2-in. iPad (8th generation)
+https://download.developer.apple.com/WWDC_2022/iPadOS_16_beta/iPad_10.2_2020_16.0_20A5283p_Restore.ipsw
+
+11-in. iPad Pro (1st and 2nd generations), 12.9-in. iPad Pro (3rd and 4th generations)
+https://download.developer.apple.com/WWDC_2022/iPadOS_16_beta/iPad_Pro_A12X_A12Z_16.0_20A5283p_Restore.ipsw
+
+10.5-in. iPad Pro (1st generation), 12.9-in. iPad Pro (2nd generation)
+https://download.developer.apple.com/WWDC_2022/iPadOS_16_beta/iPad_Pro_HFR_16.0_20A5283p_Restore.ipsw
+
+iPad (5th generation), iPad (6th generation)
+https://download.developer.apple.com/WWDC_2022/iPadOS_16_beta/iPad_64bit_TouchID_ASTC_16.0_20A5283p_Restore.ipsw
+
+iPad mini (5th generation), iPad Air (3rd generation)
+https://download.developer.apple.com/WWDC_2022/iPadOS_16_beta/iPad_Spring_2019_16.0_20A5283p_Restore.ipsw
+
+10.2-in. iPad (7th generation)
+https://download.developer.apple.com/WWDC_2022/iPadOS_16_beta/iPad_10.2_16.0_20A5283p_Restore.ipsw
+
+9.7-in. iPad Pro (1st generation)
+https://download.developer.apple.com/WWDC_2022/iPadOS_16_beta/iPadPro_9.7_16.0_20A5283p_Restore.ipsw
+
+12.9-in. iPad Pro (1st generation)
+https://download.developer.apple.com/WWDC_2022/iPadOS_16_beta/iPadPro_12.9_16.0_20A5283p_Restore.ipsw
+
+Apple&nbsp;TV HD
+https://download.developer.apple.com/WWDC_2022/tvOS_16_beta/AppleTV53_16.0_20J5299n_Restore.ipsw
