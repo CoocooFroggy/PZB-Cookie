@@ -8,6 +8,8 @@ import java.nio.channels.SeekableByteChannel;
 
 public final class HttpChannel implements SeekableByteChannel {
 
+    private static final String COOKIE = System.getenv("COOKIE");
+
     private final URL url;
     private ReadableByteChannel ch;
     private long pos;
@@ -79,7 +81,7 @@ public final class HttpChannel implements SeekableByteChannel {
             connection.addRequestProperty("Accept-Encoding", "gzip, deflate, br");
             connection.addRequestProperty("Referer", "https://developer.apple.com/");
 
-            connection.addRequestProperty("Cookie", "COOKIE GOES HERE");
+            connection.addRequestProperty("Cookie", COOKIE);
 
             if (pos > 0)
                 connection.addRequestProperty("Range", "bytes=" + pos + "-");
